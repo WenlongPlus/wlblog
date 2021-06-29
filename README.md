@@ -1,10 +1,10 @@
 # wlblog
-###环境
+### 环境
 安装 JDK（1.8+）
 安装 Maven (3.3.0+)
 安装 Redis服务 (3.0+)
 安装 MySQL (5.6+)
-###数据库配置
+### 数据库配置
 CREATE DATABASE dblog;
 sql文件在项目根目录 Dblog/docs/db下
  导入数据库`docs/db/dblog.sql`
