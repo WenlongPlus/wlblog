@@ -5,11 +5,11 @@
     <div class="licheng-bg">
         <img src="${config.staticWebSite}/img/lc-quxian.png" class="quxian" />
         <div class="warper pr">
-     <#--       <div class="ny-title">
+            <div class="ny-title">
                 <h3 class="title-en">DEVELOPMENT</h3>
-                <h4 class="title-ch">发展历程</h4>
+                <h4 class="title-ch">时光轴</h4>
                 <i></i>
-            </div>-->
+            </div>
             <div class="licheng-content swiper-container">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
@@ -17,7 +17,7 @@
                             <li class="item1">
                                 <a class="clearfix">
                                     <div class="lc-left">
-                                        <i class="line"></i> <span class="date">2021</span>
+                                        <i class="line"></i> <span class="date">2021-4</span>
                                     </div>
                                     <div class="lc-right">
                                         <div class="right-text">
@@ -30,11 +30,11 @@
                             <li class="item2">
                                 <a class="clearfix">
                                     <div class="lc-left">
-                                        <span class="date">2021</span>
+                                        <span class="date">2021-5</span>
                                         <i class="line"></i> </div>
                                     <div class="lc-right">
                                         <div class="right-text">
-                                            <h3>第一次版本更新</h3>
+                                            <h3>版本更新</h3>
                                             <p>2021年5月上旬更新网站头部导航，新增动态便签云</p>
                                         </div>
                                     </div>
@@ -43,42 +43,42 @@
                             <li class="item3">
                                 <a class="clearfix">
                                     <div class="lc-left">
-                                        <i class="line"></i> <span class="date">2021</span>
+                                        <i class="line"></i> <span class="date">2021-5</span>
                                     </div>
                                     <div class="lc-right">
                                         <div class="right-text">
-                                            <h3>第二次版本更新</h3>
+                                            <h3>版本更新</h3>
                                             <p>2021年5月下旬新增网站时光轴</p>
                                         </div>
                                     </div>
                                 </a>
                             </li>
-<#--                            <li class="item4">
+                           <li class="item4">
                                 <a class="clearfix">
                                     <div class="lc-left">
-                                        <span class="date">2014</span>
+                                        <span class="date">2021-6</span>
                                         <i class="line"></i> </div>
                                     <div class="lc-right">
                                         <div class="right-text">
-                                            <h3>公司增资，迁址，获得资管资格</h3>
-                                            <p>根据文件某某某，公司迁址上海市；注册资本增加至6亿元人民币；取得某某某管理业务资格</p>
+                                            <h3>系统重新部署</h3>
+                                            <p>2021年6月21日服务器异常CPU全时段满载，于2021年6月25日重置服务器，系统重新部署，部分基础数据丢失</p>
                                         </div>
                                     </div>
                                 </a>
                             </li>
-                            <li class="item5">
-                                <a class="clearfix">
-                                    <div class="lc-left">
-                                        <i class="line"></i> <span class="date">2015</span>
-                                    </div>
-                                    <div class="lc-right">
-                                        <div class="right-text">
-                                            <h3>子公司成立</h3>
-                                            <p>2015年1月15日，成立风险管理子公司某某某有限公司；2105年10月30日，成立上海某某某有限公司。</p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </li>-->
+                        <#--                        <li class="item5">
+                                                   <a class="clearfix">
+                                                       <div class="lc-left">
+                                                           <i class="line"></i> <span class="date">2015</span>
+                                                       </div>
+                                                       <div class="lc-right">
+                                                           <div class="right-text">
+                                                               <h3>子公司成立</h3>
+                                                               <p>2015年1月15日，成立风险管理子公司某某某有限公司；2105年10月30日，成立上海某某某有限公司。</p>
+                                                           </div>
+                                                       </div>
+                                                   </a>
+                                               </li>-->
                         </ul>
                     </div>
 <#--                    <div class="swiper-slide">
